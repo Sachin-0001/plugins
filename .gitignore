@@ -2,6 +2,9 @@
 .DS_Store
 Thumbnails
 
+# Local workflow notes
+CLAUDE.md
+
 # IDE
 .vscode/
 .idea
